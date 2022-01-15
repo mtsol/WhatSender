@@ -1,0 +1,3 @@
+phone numbers without country code
+(only one video .mp4) or (3 images .jpg .png)
+assume that speed is one mb

@@ -1,0 +1,6 @@
+2022/01/01-17:52:55.335 2080 Reusing MANIFEST D:\Softwares\WhatsApp-Bulk-Message-Sender-main\wbms\User Data\Default\Local Storage\leveldb/MANIFEST-000001
+2022/01/01-17:52:55.341 2080 Recovering log #13
+2022/01/01-17:52:55.343 2080 Reusing old log D:\Softwares\WhatsApp-Bulk-Message-Sender-main\wbms\User Data\Default\Local Storage\leveldb/000013.log 
+2022/01/01-18:12:13.204 2054 Level-0 table #17: started
+2022/01/01-18:12:13.376 2054 Level-0 table #17: 13672 bytes OK
+2022/01/01-18:12:13.656 2054 Delete type=0 #13
