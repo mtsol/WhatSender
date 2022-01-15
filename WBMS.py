@@ -18,7 +18,7 @@ import random
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 cmd = 'mode 60,28'
-os.system(cmd)
+#os.system(cmd)
 
 start = time.time()
 #scriptdir="D:\\Softwares\\WhatsApp-Bulk-Message-Sender-main"
@@ -143,7 +143,9 @@ def send():
     fail=0
     loadtime=00.00
     looood = 0
-    w = webdriver.Chrome(options=options)
+    print(options)
+    print(options)
+    w = webdriver.Chrome("/Applications/chromedriver", options=options)
     #delta1 = datetime.timedelta.total_seconds()#
     while (count < lines): 
         tosend = nums[count]
